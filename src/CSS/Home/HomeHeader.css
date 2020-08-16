@@ -54,3 +54,14 @@
     }
 }
 
+/* content CSS */
+
+
+@keyframes exp-1 {
+    0% {
+        transform: translate(0px,0px);
+    }
+    100% {
+        transform: translate(20px ,-20px);
+    }
+}

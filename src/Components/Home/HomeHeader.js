@@ -9,10 +9,10 @@ export class HomeHeader extends Component {
     render() {
         return (
             <div>
-                <div className="wrap" >
+                <div className="wrap" style={{height:"80vh"}} >
                     <div>
-                        <div>
-                            <img alt="s" src={image1} className="shape-1" />
+                        <div style={{display:"flex"}} >
+                            <div className="shape-1-content" ><img alt="s" src={image1} className="shape-1" /></div>
                             <img alt="s" src={image2} className="shape-2" />
                             <img alt="s" src={image3} className="shape-3" />
                         </div>
