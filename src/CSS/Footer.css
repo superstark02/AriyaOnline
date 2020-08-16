@@ -1,0 +1,13 @@
+.footer{
+    margin-top: 100px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+}
+.footer-table-wrapper{
+    width: 80%;
+}
+th{
+    text-align: left;
+}
